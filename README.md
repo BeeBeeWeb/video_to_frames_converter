@@ -4,6 +4,8 @@ Get Video frames as images using Python and OpenCV
 - Prerequisites: 
   -  python 3+
 
+## How to run this project
+
 - open command line in the root folder
 - run following command: 
 
